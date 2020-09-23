@@ -1,4 +1,4 @@
-# Middlebury_v.2-_Evaluation
+# Middlebury_v.2_Evaluation
 
 Both 'Error_Non_31.zip' and 'Test_Error_All.zip' are implemented by 'Microsoft Visual Studio 2012/2013 + OpenCV 2.4.8' for evaluating Middlebury v.2 stereo data sets (31 stereo pairs). 
 
