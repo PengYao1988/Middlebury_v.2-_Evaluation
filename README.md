@@ -7,6 +7,5 @@
 #Error_Non_31.zip后里面有Data和Data_extended两个文件夹，其中Data文件夹中是Tsukuba,Venus,Teddy和Cones数据集，Data_extended是其余27组数据集；4）需要做的是把你得到的视差图放到对应的文件夹中去。例
 #如Tsukuba的视差图分别命名为: tsukuba_dis.ppm, 放到D:\Error_Non_31\Data\tsukuba文件夹中，Venus, Teddy和Cones的前缀与Tsukuba一致。其余27组立体匹配对放到Data_extended文件夹中对应的文件中，例如
 #Aloe命名为：_Aloe.ppm放到D:\Error_Non_31\Data_extended\Aloe文件夹中。
-#    所有视差图的前缀和后缀（图像格式）均可修改，但为了使用方便，不建议修改程序。至于图像格式转换，我使用XnConvert软件对图像进行.pgm, .ppm, .png格式之间的转换，这款软件用百度搜索就可以搜到，使用
-#起来非常方便。在测试完错误率之后，查看对应路径的文件夹（比如上述的D:\Error_Non_31\Data\tsukuba）可以得到非遮挡区域错误率的图像，其中非遮挡区域的错误像素用红色标记，错误率和代码运行出来的非遮挡错
-#误率是一致的。
+#    所有视差图的前缀和后缀（图像格式）均可修改。在测试完错误率之后，查看对应路径的文件夹（比如上述的D:\Error_Non_31\Data\tsukuba）可以得到非遮挡区域错误率的图像，其中非遮挡区域的错误像素用红色标
+#记，错误率和代码运行出来的非遮挡错误率是一致的。
