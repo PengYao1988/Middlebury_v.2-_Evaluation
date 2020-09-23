@@ -6,5 +6,5 @@ Usage:
 Unzip both the zip files to 'D:\\', then open it by using Microsoft Visual Studio 2012/2013 with configured OpenCV, then you can run them.
 
 Tips: 
-1). The format of '*.ppm' can be changed by '*.png', '*.jpg' etc for your enjoy in project Error_Non_31.zip.
+1). The format of '*.ppm' can be changed by '*.png', '*.jpg' etc for your enjoy in project 'Error_Non_31.zip'.
 2). All the max_disparity and scale are indexed in 'MiddleBurry_Extended_31.txt' file.
